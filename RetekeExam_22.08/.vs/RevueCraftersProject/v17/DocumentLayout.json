@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\RevueCragters.csproj|c:\\users\\evelina angelova\\desktop\\retekeexam_22.08\\retekeexam_22.08\\realexam\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\RevueCragters.csproj|solutionrelative:realexam\\revuecrafterstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\RevueCragters.csproj|c:\\users\\evelina angelova\\desktop\\retekeexam_22.08\\retekeexam_22.08\\realexam\\models\\revuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\RevueCragters.csproj|solutionrelative:realexam\\models\\revuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\REalExam.csproj|c:\\users\\evelina angelova\\desktop\\retekeexam_22.08\\retekeexam_22.08\\realexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66A925E-E769-46D7-A265-9C7D63564B39}|REalExam\\REalExam.csproj|solutionrelative:realexam\\models\\apiresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevueDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\Models\\RevueDTO.cs",
+              "RelativeDocumentMoniker": "REalExam\\Models\\RevueDTO.cs",
+              "ToolTip": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\Models\\RevueDTO.cs",
+              "RelativeToolTip": "REalExam\\Models\\RevueDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:51:39.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\Models\\ApiResponseDTO.cs",
+              "RelativeDocumentMoniker": "REalExam\\Models\\ApiResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\Models\\ApiResponseDTO.cs",
+              "RelativeToolTip": "REalExam\\Models\\ApiResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:38:06.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevueCraftersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\RevueCraftersTests.cs",
+              "RelativeDocumentMoniker": "REalExam\\RevueCraftersTests.cs",
+              "ToolTip": "C:\\Users\\Evelina Angelova\\Desktop\\RetekeEXAM_22.08\\RetekeExam_22.08\\REalExam\\RevueCraftersTests.cs",
+              "RelativeToolTip": "REalExam\\RevueCraftersTests.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwKgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T17:36:55.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
